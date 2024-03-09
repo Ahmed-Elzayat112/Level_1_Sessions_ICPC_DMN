@@ -10,8 +10,9 @@ Welcome to the Problem Solving Sessions repository for the ICPC DMN community! T
 Stay tuned for updates on upcoming sessions!
 
 ## Session Resources
+### Records of sessions:
 
-- Records of sessions coming soon...
+- [Sorting & Recursion](https://youtu.be/NJbfLGX_AiE?si=gHI10MZ5nsHyLYm9)
 
 ## Participating
 
