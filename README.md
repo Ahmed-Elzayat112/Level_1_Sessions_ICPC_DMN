@@ -6,6 +6,7 @@ Welcome to the Problem Solving Sessions repository for the ICPC DMN community! T
 
 - **Session 1**: Topic (Time & Space Complexity)
 - **Session 2**: Topic (Sorting & Recursion)
+- **Session 3**: Topic (Preprocessing Techniques (Prefix and suffix & Frequency array))
 
 Stay tuned for updates on upcoming sessions!
 
@@ -13,6 +14,7 @@ Stay tuned for updates on upcoming sessions!
 ### Records of sessions:
 
 - [Sorting & Recursion](https://youtu.be/NJbfLGX_AiE?si=gHI10MZ5nsHyLYm9)
+- [Preprocessing Techniques](https://youtu.be/Wu-TsNWauWI?si=aB_h_u7KP6D6wSgu)
 
 ## Participating
 
